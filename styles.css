@@ -1,0 +1,18 @@
+/* This is how you write a comment in CSS */
+
+/* Only specifying "h1" will change the styling 
+form all h1 tags in your page */
+h1 {
+	color: red;
+}
+
+/* This is how an ID is specified in CSS */
+#idExample {
+	color: blue;
+}
+
+
+/* This is an example of a class */
+.classExample {
+	color: green;
+}
